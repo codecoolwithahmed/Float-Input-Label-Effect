@@ -18,6 +18,7 @@
 
 <h2>Demo Video</h2>
 <p>Watch the video below to see the Float Input Label Effect in action:</p>
-<iframe width="560" height="315" src="https://github.com/user-attachments/assets/7c238b6d-75e1-48ac-8e34-c8a650b720e2" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe> -->
+https://github.com/user-attachments/assets/7c238b6d-75e1-48ac-8e34-c8a650b720e2
 
 <p>#WebDesign #UX #UI #FrontEnd #CSS #JavaScript #WebDevelopment #HTML #Coding #WebDev #OpenSource #DesignTrends #ResponsiveDesign</p>
